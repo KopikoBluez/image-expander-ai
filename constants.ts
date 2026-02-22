@@ -1,4 +1,4 @@
-export const MODEL_NAME = 'gemini-2.5-flash';
+export const MODEL_NAME = 'gemini-2.5-flash-image';
 
 export const ASPECT_RATIOS = [
   { label: 'Custom', value: null },
